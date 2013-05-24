@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = GetIp::VERSION
   spec.authors       = ["Diego Moreira"]
   spec.email         = ["diegoalvesmoreira@gmail.com"]
-  spec.description   = %q{A solution that returns the remote ip address of your local network}
-  # spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A ruby gem to provide you a easey way to return your local and remote ip addresses}
+  spec.summary       = %q{A solution that returns the local and remote ip addresses}
   spec.homepage      = ""
   spec.license       = "MIT"
 
