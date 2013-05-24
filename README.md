@@ -1,6 +1,6 @@
 # GetIp
 
-TODO: Write a gem description
+A ruby gem to provide you a easey way to return your local and remote ip addresses.
 
 ## Installation
 
@@ -18,12 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+	# Call directly from class or instance
+	GetIp.local
+	=> "192.168.0.32"
 
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+	ip = GetIp
+	ip.remote
+	=> "177.33.167.196"
