@@ -1,4 +1,5 @@
 # GetIp
+[![Build Status](https://travis-ci.org/dimoreira/get_ip.png?branch=master)](https://travis-ci.org/dimoreira/get_ip)
 
 A ruby gem to provide you a easey way to return your local and remote ip addresses.
 
