@@ -1,7 +1,7 @@
 # GetIp
 [![Build Status](https://travis-ci.org/dimoreira/get_ip.png?branch=master)](https://travis-ci.org/dimoreira/get_ip)
 
-A ruby gem to provide you a easy way to return your local and remote ip addresses.
+A ruby gem to provide you an easy way to return your local and remote ip addresses.
 
 ## Installation
 
